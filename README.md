@@ -72,7 +72,7 @@ mvn clean install
 ```
 
 ### Step 4: Deploy to Tomcat
-1. Copy the generated WAR file from `target/GodavariGatedCommunity-0.0.1-SNAPSHOT.war`
+1. Copy the generated WAR file from `target/VillageComplaintTrackingSystem-0.0.1-SNAPSHOT.war`
 2. Paste it into Tomcat's `webapps` folder
 3. Start Tomcat server
 4. Access the application at: `http://localhost:8080/VillageComplaintTrackingSystem-0.0.1-SNAPSHOT/`
